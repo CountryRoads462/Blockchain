@@ -1,0 +1,16 @@
+type: code
+files:
+- name: src/Main.java
+  visible: true
+  text: "import java.util.Scanner;\nimport java.time.Instant;\n\npublic class Main\
+    \ {\n    public static void main(String[] args) {\n        Scanner scanner = new\
+    \ Scanner(System.in);\n\n        System.out.println(dateInEpochSecond(scanner.nextLine()));\n\
+    \    }  \n\n    public static long dateInEpochSecond(String text) {\n\n    }\n\
+    }"
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/21246#comment
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: Sun, 26 Feb 2023 14:31:46 UTC
+record: -1

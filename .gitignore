@@ -1,0 +1,7 @@
+# Project exclude paths
+/.gradle/
+/Blockchain/task/build/
+/Blockchain/task/out/
+/Blockchain/task/out/production/classes/
+/Topics/Currying/Multifunctional mapper/out/
+/Topics/Currying/Multifunctional mapper/out/production/classes/

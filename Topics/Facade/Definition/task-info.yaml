@@ -1,0 +1,24 @@
+type: choice
+is_multiple_choice: false
+options:
+- text: dynamically provides new features to an object
+- text: defines a family of algorithms, encapsulates each of them, and ensures their
+    interchangeability
+- text: transforms one interface into another
+- text: provides a unified interface to a group of interfaces
+files:
+- name: src/Task.java
+  visible: true
+  text: |
+    // You can experiment here, it won’t be checked
+
+    public class Task {
+      public static void main(String[] args) {
+        // put your code here
+      }
+    }
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/5528#comment
+status: Solved
+record: -1
+local_check: false

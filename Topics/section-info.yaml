@@ -1,0 +1,25 @@
+content:
+- Instant
+- Inner classes
+- Nested classes
+- Type Bounds
+- Memento
+- Standard functional interfaces
+- Optional
+- Function composition
+- Functional data processing with streams
+- Stream filtering
+- Map and flatMap
+- Arrays as parameters
+- Reduction methods
+- Collectors
+- Grouping collectors
+- Infinite streams
+- Taking elements
+- Streams of primitives
+- Stream pipelines
+- Parallel streams
+- Decorator
+- Facade
+- Currying
+- Comparing dates and time
